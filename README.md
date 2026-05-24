@@ -6,7 +6,7 @@ A Next.js inventory reservation platform for multi-warehouse retail. Handles the
 
 > Deploy URL goes here after Vercel deployment.
 
-■ [Click here to run live](http://10.77.97.5:8000/allo_inventory_ui_preview.html)
+■ [Click here to run live](https://task-allo-inventory.tiiny.site)
 
 ## How to Run Locally
 
